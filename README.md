@@ -8,10 +8,10 @@ My collection of LeetCode solutions in **C++** and **JavaScript**, synced automa
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-16-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-17-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-8-ffc01e?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-4-ff375f?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-5-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
 
@@ -36,8 +36,8 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | :---: | :---: |
 | 🟢 Easy | 4 |
 | 🟡 Medium | 8 |
-| 🔴 Hard | 4 |
-| **Total** | **16** |
+| 🔴 Hard | 5 |
+| **Total** | **17** |
 
 | Language | Solutions |
 | :---: | :---: |
@@ -59,6 +59,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | 🟡 Medium | JavaScript | — | [View](./0007-reverse-integer) |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | 🟡 Medium | JavaScript | — | [View](./0008-string-to-integer-atoi) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | 🟢 Easy | JavaScript | — | [View](./0009-palindrome-number) |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | 🔴 Hard | — | — | [View](./0010-regular-expression-matching) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | 🔴 Hard | C++ | — | [View](./1340-jump-game-v) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | C++ | — | [View](./2778-sum-of-squares-of-special-elements) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | C++ | — | [View](./2897-apply-operations-on-array-to-maximize-sum-of-squares) |
