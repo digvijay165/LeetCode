@@ -61,6 +61,11 @@
     "String",
     "Trie"
   ],
+  "0015-3sum": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
   "1340-jump-game-v": [
     "Array",
     "Dynamic Programming",
