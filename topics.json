@@ -1,0 +1,14 @@
+{
+  "0001-two-sum": ["Array", "Hash Table"],
+  "0002-add-two-numbers": ["Linked List", "Math", "Recursion"],
+  "0003-longest-substring-without-repeating-characters": ["Hash Table", "String", "Sliding Window"],
+  "0004-median-of-two-sorted-arrays": ["Array", "Binary Search", "Divide and Conquer"],
+  "0005-longest-palindromic-substring": ["Dynamic Programming", "String", "Two Pointers", "Manacher"],
+  "0006-zigzag-conversion": ["String"],
+  "0007-reverse-integer": ["Math"],
+  "0008-string-to-integer-atoi": ["String"],
+  "0009-palindrome-number": ["Math"],
+  "0010-regular-expression-matching": ["String", "Dynamic Programming", "Recursion"],
+  "1340-jump-game-v": ["Array", "Dynamic Programming", "Sorting"],
+  "2916-subarrays-distinct-element-sum-of-squares-ii": ["Array", "Hash Table", "Binary Indexed Tree", "Segment Tree"]
+}
