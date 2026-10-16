@@ -8,9 +8,9 @@ My collection of LeetCode solutions in **C++** and **JavaScript**, synced automa
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-17-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-18-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-8-ffc01e?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-9-ffc01e?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-5-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
@@ -35,13 +35,13 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | Difficulty | Solved |
 | :---: | :---: |
 | 🟢 Easy | 4 |
-| 🟡 Medium | 8 |
+| 🟡 Medium | 9 |
 | 🔴 Hard | 5 |
-| **Total** | **17** |
+| **Total** | **18** |
 
 | Language | Solutions |
 | :---: | :---: |
-| JavaScript | 9 |
+| JavaScript | 10 |
 | C++ | 8 |
 
 ---
@@ -60,6 +60,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | 🟡 Medium | JavaScript | `String` | [View](./0008-string-to-integer-atoi) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | 🟢 Easy | JavaScript | `Math` | [View](./0009-palindrome-number) |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | 🔴 Hard | JavaScript | `String`, `Dynamic Programming`, `Recursion` | [View](./0010-regular-expression-matching) |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium | JavaScript | `Array`, `Two Pointers`, `Greedy` | [View](./0011-container-with-most-water) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | 🔴 Hard | C++ | `Array`, `Dynamic Programming`, `Sorting` | [View](./1340-jump-game-v) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | C++ | — | [View](./2778-sum-of-squares-of-special-elements) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | C++ | — | [View](./2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -72,7 +73,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`String` (5) · `Array` (4) · `Dynamic Programming` (3) · `Hash Table` (3) · `Math` (3) · `Recursion` (2) · `Binary Indexed Tree` (1) · `Binary Search` (1) · `Divide and Conquer` (1) · `Linked List` (1) · `Manacher` (1) · `Segment Tree` (1) · `Sliding Window` (1) · `Sorting` (1) · `Two Pointers` (1)
+`Array` (5) · `String` (5) · `Dynamic Programming` (3) · `Hash Table` (3) · `Math` (3) · `Recursion` (2) · `Two Pointers` (2) · `Binary Indexed Tree` (1) · `Binary Search` (1) · `Divide and Conquer` (1) · `Greedy` (1) · `Linked List` (1) · `Manacher` (1) · `Segment Tree` (1) · `Sliding Window` (1) · `Sorting` (1)
 
 ---
 
@@ -100,19 +101,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/digvijay165/LeetCode/tree/master/0011-container-with-most-water) |
-## Two Pointers
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/digvijay165/LeetCode/tree/master/0011-container-with-most-water) |
-## Greedy
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/digvijay165/LeetCode/tree/master/0011-container-with-most-water) |
-<!---LeetCode Topics End-->
