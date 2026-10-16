@@ -7,6 +7,7 @@ import html
 import json
 import os
 import re
+import urllib.request
 
 # ---- Edit these to personalise the README --------------------------------
 GITHUB_USER = "digvijay165"
@@ -54,10 +55,47 @@ def load_topics(block):
     for folder, topics in topics_by_problem(block).items():
         known = saved.setdefault(folder, [])
         known.extend(t for t in topics if t not in known)
+    return saved
+
+
+def fetch_topics(url):
+    """Ask LeetCode for a problem's topic tags; [] if it can't be reached."""
+    slug = url.rstrip("/").rsplit("/", 1)[-1]
+    query = {
+        "query": "query q($s: String!) { question(titleSlug: $s) { topicTags { name } } }",
+        "variables": {"s": slug},
+    }
+    request = urllib.request.Request(
+        "https://leetcode.com/graphql",
+        data=json.dumps(query).encode(),
+        headers={
+            "Content-Type": "application/json",
+            "Referer": f"https://leetcode.com/problems/{slug}/",
+            "User-Agent": "Mozilla/5.0",
+        },
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=15) as response:
+            question = json.load(response)["data"]["question"] or {}
+        return [tag["name"] for tag in question.get("topicTags") or []]
+    except Exception as error:
+        print(f"Could not fetch topics for {slug}: {error}")
+        return []
+
+
+def fill_missing_topics(problems, saved):
+    """Look up topics for problems LeetHub never tagged."""
+    for p in problems:
+        if not saved.get(p["folder"]):
+            topics = fetch_topics(p["url"])
+            if topics:
+                saved[p["folder"]] = topics
+
+
+def save_topics(saved):
     with open(TOPICS_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(dict(sorted(saved.items())), f, indent=2, ensure_ascii=False)
         f.write("\n")
-    return saved
 
 
 def topics_by_problem(block):
@@ -239,8 +277,11 @@ Made with 💻 by [{AUTHOR_NAME}](https://github.com/{GITHUB_USER})
 
 def main():
     current = read(README) if os.path.exists(README) else ""
+    problems = load_problems()
     tags = load_topics(topics_block(current))
-    new = build(load_problems(), tags)
+    fill_missing_topics(problems, tags)
+    save_topics(tags)
+    new = build(problems, tags)
     if new != current:
         with open(README, "w", encoding="utf-8", newline="\n") as f:
             f.write(new)
