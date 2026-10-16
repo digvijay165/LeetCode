@@ -8,10 +8,10 @@ My collection of LeetCode solutions in **C++** and **JavaScript** and **TypeScri
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-22-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-23-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-6-00b8a3?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-11-ffc01e?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-5-ff375f?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-6-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
 
@@ -36,14 +36,14 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | :---: | :---: |
 | 🟢 Easy | 6 |
 | 🟡 Medium | 11 |
-| 🔴 Hard | 5 |
-| **Total** | **22** |
+| 🔴 Hard | 6 |
+| **Total** | **23** |
 
 | Language | Solutions |
 | :---: | :---: |
 | JavaScript | 10 |
 | C++ | 8 |
-| TypeScript | 4 |
+| TypeScript | 5 |
 
 ---
 
@@ -66,6 +66,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | 🟢 Easy | TypeScript | `Hash Table`, `Math`, `String` | [View](./0013-roman-to-integer) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | 🟢 Easy | TypeScript | `Array`, `String`, `Trie` | [View](./0014-longest-common-prefix) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | 🟡 Medium | TypeScript | `Array`, `Two Pointers`, `Sorting` | [View](./0015-3sum) |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | 🔴 Hard | TypeScript | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort`, `Tournament Sort` | [View](./0023-merge-k-sorted-lists) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | 🔴 Hard | C++ | `Array`, `Dynamic Programming`, `Sorting` | [View](./1340-jump-game-v) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | C++ | `Array`, `Enumeration` | [View](./2778-sum-of-squares-of-special-elements) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | C++ | `Array`, `Hash Table`, `Greedy`, `Bit Manipulation` | [View](./2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -78,7 +79,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (11) · `String` (8) · `Hash Table` (7) · `Math` (6) · `Greedy` (4) · `Dynamic Programming` (3) · `Sorting` (3) · `Two Pointers` (3) · `Binary Indexed Tree` (2) · `Recursion` (2) · `Segment Tree` (2) · `Binary Search` (1) · `Bit Manipulation` (1) · `Divide and Conquer` (1) · `Enumeration` (1) · `Linked List` (1) · `Manacher` (1) · `Sliding Window` (1) · `Trie` (1)
+`Array` (11) · `String` (8) · `Hash Table` (7) · `Math` (6) · `Greedy` (4) · `Dynamic Programming` (3) · `Sorting` (3) · `Two Pointers` (3) · `Binary Indexed Tree` (2) · `Divide and Conquer` (2) · `Linked List` (2) · `Recursion` (2) · `Segment Tree` (2) · `Binary Search` (1) · `Bit Manipulation` (1) · `Enumeration` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Merge Sort` (1) · `Sliding Window` (1) · `Tournament Sort` (1) · `Trie` (1)
 
 ---
 
@@ -106,27 +107,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/digvijay165/LeetCode/tree/master/0023-merge-k-sorted-lists) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/digvijay165/LeetCode/tree/master/0023-merge-k-sorted-lists) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/digvijay165/LeetCode/tree/master/0023-merge-k-sorted-lists) |
-## Merge Sort
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/digvijay165/LeetCode/tree/master/0023-merge-k-sorted-lists) |
-## Tournament Sort
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/digvijay165/LeetCode/tree/master/0023-merge-k-sorted-lists) |
-<!---LeetCode Topics End-->

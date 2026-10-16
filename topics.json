@@ -66,6 +66,13 @@
     "Two Pointers",
     "Sorting"
   ],
+  "0023-merge-k-sorted-lists": [
+    "Linked List",
+    "Divide and Conquer",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Tournament Sort"
+  ],
   "1340-jump-game-v": [
     "Array",
     "Dynamic Programming",
