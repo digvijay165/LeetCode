@@ -105,3 +105,19 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/digvijay165/LeetCode/tree/master/0015-3sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/digvijay165/LeetCode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/digvijay165/LeetCode/tree/master/0015-3sum) |
+<!---LeetCode Topics End-->
