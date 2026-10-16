@@ -4,6 +4,7 @@ Runs in GitHub Actions on every push. Uses only the Python standard library.
 """
 
 import html
+import json
 import os
 import re
 
@@ -15,6 +16,7 @@ AUTHOR_NAME = "Digvijay Singh"
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 README = os.path.join(ROOT, "README.md")
+TOPICS_FILE = os.path.join(ROOT, "topics.json")
 TOPICS_START = "<!---LeetCode Topics Start-->"
 TOPICS_END = "<!---LeetCode Topics End-->"
 
@@ -34,12 +36,28 @@ def read(path):
 
 
 def topics_block(readme_text):
-    """Return LeetHub's auto-managed topics section (markers included)."""
+    """Return LeetHub's topics section (markers included), or "" if absent."""
     start = readme_text.find(TOPICS_START)
     end = readme_text.find(TOPICS_END)
     if start == -1 or end == -1:
-        return TOPICS_START + "\n" + TOPICS_END
+        return ""
     return readme_text[start:end + len(TOPICS_END)]
+
+
+def load_topics(block):
+    """Merge topics LeetHub just added to the README into topics.json.
+
+    LeetHub only lists its newest problems in that section, so topics.json
+    keeps the full history and the section itself is left out of the README.
+    """
+    saved = json.loads(read(TOPICS_FILE)) if os.path.exists(TOPICS_FILE) else {}
+    for folder, topics in topics_by_problem(block).items():
+        known = saved.setdefault(folder, [])
+        known.extend(t for t in topics if t not in known)
+    with open(TOPICS_FILE, "w", encoding="utf-8", newline="\n") as f:
+        json.dump(dict(sorted(saved.items())), f, indent=2, ensure_ascii=False)
+        f.write("\n")
+    return saved
 
 
 def topics_by_problem(block):
@@ -100,8 +118,7 @@ def badge(label, value, color, logo=""):
     return f"![{label}](https://img.shields.io/badge/{label}-{value}-{color}?style=flat-square{extra})"
 
 
-def build(problems, block):
-    tags = topics_by_problem(block)
+def build(problems, tags):
     count = {d: sum(p["difficulty"] == d for p in problems) for d in DIFFICULTY_ICON}
     total = len(problems)
     lang_count = {}
@@ -217,15 +234,13 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [{AUTHOR_NAME}](https://github.com/{GITHUB_USER})
 
 </div>
-
-{block}
 """
 
 
 def main():
     current = read(README) if os.path.exists(README) else ""
-    block = topics_block(current)
-    new = build(load_problems(), block)
+    tags = load_topics(topics_block(current))
+    new = build(load_problems(), tags)
     if new != current:
         with open(README, "w", encoding="utf-8", newline="\n") as f:
             f.write(new)
