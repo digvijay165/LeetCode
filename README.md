@@ -62,18 +62,18 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | 🔴 Hard | JavaScript | `String`, `Dynamic Programming`, `Recursion` | [View](./0010-regular-expression-matching) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium | JavaScript | `Array`, `Two Pointers`, `Greedy` | [View](./0011-container-with-most-water) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | 🔴 Hard | C++ | `Array`, `Dynamic Programming`, `Sorting` | [View](./1340-jump-game-v) |
-| 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | C++ | — | [View](./2778-sum-of-squares-of-special-elements) |
-| 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | C++ | — | [View](./2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | C++ | — | [View](./2913-subarrays-distinct-element-sum-of-squares-i) |
+| 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | C++ | `Array`, `Enumeration` | [View](./2778-sum-of-squares-of-special-elements) |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | C++ | `Array`, `Hash Table`, `Greedy`, `Bit Manipulation` | [View](./2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | C++ | `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree` | [View](./2913-subarrays-distinct-element-sum-of-squares-i) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | C++ | `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree` | [View](./2916-subarrays-distinct-element-sum-of-squares-ii) |
-| 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits) | 🟡 Medium | C++ | — | [View](./3723-maximize-sum-of-squares-of-digits) |
-| 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | C++ | — | [View](./3727-maximum-alternating-sum-of-squares) |
+| 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits) | 🟡 Medium | C++ | `Math`, `Greedy` | [View](./3723-maximize-sum-of-squares-of-digits) |
+| 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | C++ | `Array`, `Greedy`, `Sorting` | [View](./3727-maximum-alternating-sum-of-squares) |
 
 ---
 
 ## 🧩 Topics Covered
 
-`Array` (5) · `String` (5) · `Dynamic Programming` (3) · `Hash Table` (3) · `Math` (3) · `Recursion` (2) · `Two Pointers` (2) · `Binary Indexed Tree` (1) · `Binary Search` (1) · `Divide and Conquer` (1) · `Greedy` (1) · `Linked List` (1) · `Manacher` (1) · `Segment Tree` (1) · `Sliding Window` (1) · `Sorting` (1)
+`Array` (9) · `Hash Table` (5) · `String` (5) · `Greedy` (4) · `Math` (4) · `Dynamic Programming` (3) · `Binary Indexed Tree` (2) · `Recursion` (2) · `Segment Tree` (2) · `Sorting` (2) · `Two Pointers` (2) · `Binary Search` (1) · `Bit Manipulation` (1) · `Divide and Conquer` (1) · `Enumeration` (1) · `Linked List` (1) · `Manacher` (1) · `Sliding Window` (1)
 
 ---
 
