@@ -8,8 +8,8 @@ My collection of LeetCode solutions in **C++** and **JavaScript** and **TypeScri
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-19-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-20-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-5-00b8a3?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-10-ffc01e?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-5-ff375f?style=flat-square)
 
@@ -34,16 +34,16 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 | Difficulty | Solved |
 | :---: | :---: |
-| 🟢 Easy | 4 |
+| 🟢 Easy | 5 |
 | 🟡 Medium | 10 |
 | 🔴 Hard | 5 |
-| **Total** | **19** |
+| **Total** | **20** |
 
 | Language | Solutions |
 | :---: | :---: |
 | JavaScript | 10 |
 | C++ | 8 |
-| TypeScript | 1 |
+| TypeScript | 2 |
 
 ---
 
@@ -63,6 +63,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | 🔴 Hard | JavaScript | `String`, `Dynamic Programming`, `Recursion` | [View](./0010-regular-expression-matching) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium | JavaScript | `Array`, `Two Pointers`, `Greedy` | [View](./0011-container-with-most-water) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | 🟡 Medium | TypeScript | `Hash Table`, `Math`, `String` | [View](./0012-integer-to-roman) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | 🟢 Easy | TypeScript | `Hash Table`, `Math`, `String` | [View](./0013-roman-to-integer) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | 🔴 Hard | C++ | `Array`, `Dynamic Programming`, `Sorting` | [View](./1340-jump-game-v) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | C++ | `Array`, `Enumeration` | [View](./2778-sum-of-squares-of-special-elements) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | C++ | `Array`, `Hash Table`, `Greedy`, `Bit Manipulation` | [View](./2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -75,7 +76,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (9) · `Hash Table` (6) · `String` (6) · `Math` (5) · `Greedy` (4) · `Dynamic Programming` (3) · `Binary Indexed Tree` (2) · `Recursion` (2) · `Segment Tree` (2) · `Sorting` (2) · `Two Pointers` (2) · `Binary Search` (1) · `Bit Manipulation` (1) · `Divide and Conquer` (1) · `Enumeration` (1) · `Linked List` (1) · `Manacher` (1) · `Sliding Window` (1)
+`Array` (9) · `Hash Table` (7) · `String` (7) · `Math` (6) · `Greedy` (4) · `Dynamic Programming` (3) · `Binary Indexed Tree` (2) · `Recursion` (2) · `Segment Tree` (2) · `Sorting` (2) · `Two Pointers` (2) · `Binary Search` (1) · `Bit Manipulation` (1) · `Divide and Conquer` (1) · `Enumeration` (1) · `Linked List` (1) · `Manacher` (1) · `Sliding Window` (1)
 
 ---
 
@@ -103,19 +104,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/digvijay165/LeetCode/tree/master/0013-roman-to-integer) |
-## Math
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/digvijay165/LeetCode/tree/master/0013-roman-to-integer) |
-## String
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/digvijay165/LeetCode/tree/master/0013-roman-to-integer) |
-<!---LeetCode Topics End-->

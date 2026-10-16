@@ -51,6 +51,11 @@
     "Math",
     "String"
   ],
+  "0013-roman-to-integer": [
+    "Hash Table",
+    "Math",
+    "String"
+  ],
   "1340-jump-game-v": [
     "Array",
     "Dynamic Programming",
