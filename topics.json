@@ -56,6 +56,11 @@
     "Math",
     "String"
   ],
+  "0014-longest-common-prefix": [
+    "Array",
+    "String",
+    "Trie"
+  ],
   "1340-jump-game-v": [
     "Array",
     "Dynamic Programming",
