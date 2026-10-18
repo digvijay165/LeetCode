@@ -128,6 +128,11 @@
     "Greedy",
     "Sorting"
   ],
+  "2144-minimum-cost-of-buying-candies-with-discount": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
   "2778-sum-of-squares-of-special-elements": [
     "Array",
     "Enumeration"
