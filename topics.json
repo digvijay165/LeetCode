@@ -91,6 +91,12 @@
     "Binary Tree",
     "Fermat's Little Theorem"
   ],
+  "1871-jump-game-vii": [
+    "String",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
   "2778-sum-of-squares-of-special-elements": [
     "Array",
     "Enumeration"
