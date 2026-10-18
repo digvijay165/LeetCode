@@ -4,13 +4,13 @@
 
 ### *Sharpening problem-solving skills, one problem at a time.*
 
-My collection of LeetCode solutions in **C++** and **JavaScript** and **TypeScript**, synced automatically from LeetCode with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
+My collection of LeetCode solutions in **C++** and **Java** and **JavaScript** and **TypeScript**, synced automatically from LeetCode with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-23-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-24-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-6-00b8a3?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-11-ffc01e?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-12-ffc01e?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-6-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
@@ -35,15 +35,16 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | Difficulty | Solved |
 | :---: | :---: |
 | 🟢 Easy | 6 |
-| 🟡 Medium | 11 |
+| 🟡 Medium | 12 |
 | 🔴 Hard | 6 |
-| **Total** | **23** |
+| **Total** | **24** |
 
 | Language | Solutions |
 | :---: | :---: |
 | JavaScript | 10 |
 | C++ | 8 |
 | TypeScript | 5 |
+| Java | 1 |
 
 ---
 
@@ -72,6 +73,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | C++ | `Array`, `Hash Table`, `Greedy`, `Bit Manipulation` | [View](./2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | C++ | `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree` | [View](./2913-subarrays-distinct-element-sum-of-squares-i) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | C++ | `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree` | [View](./2916-subarrays-distinct-element-sum-of-squares-ii) |
+| 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum) | 🟡 Medium | Java | `Array`, `Hash Table`, `Sorting` | [View](./3551-minimum-swaps-to-sort-by-digit-sum) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits) | 🟡 Medium | C++ | `Math`, `Greedy` | [View](./3723-maximize-sum-of-squares-of-digits) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | C++ | `Array`, `Greedy`, `Sorting` | [View](./3727-maximum-alternating-sum-of-squares) |
 
@@ -79,7 +81,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (11) · `String` (8) · `Hash Table` (7) · `Math` (6) · `Greedy` (4) · `Dynamic Programming` (3) · `Sorting` (3) · `Two Pointers` (3) · `Binary Indexed Tree` (2) · `Divide and Conquer` (2) · `Linked List` (2) · `Recursion` (2) · `Segment Tree` (2) · `Binary Search` (1) · `Bit Manipulation` (1) · `Enumeration` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Merge Sort` (1) · `Sliding Window` (1) · `Tournament Sort` (1) · `Trie` (1)
+`Array` (12) · `Hash Table` (8) · `String` (8) · `Math` (6) · `Greedy` (4) · `Sorting` (4) · `Dynamic Programming` (3) · `Two Pointers` (3) · `Binary Indexed Tree` (2) · `Divide and Conquer` (2) · `Linked List` (2) · `Recursion` (2) · `Segment Tree` (2) · `Binary Search` (1) · `Bit Manipulation` (1) · `Enumeration` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Merge Sort` (1) · `Sliding Window` (1) · `Tournament Sort` (1) · `Trie` (1)
 
 ---
 
@@ -107,19 +109,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/digvijay165/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-## Hash Table
-|  |
-| ------- |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/digvijay165/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-## Sorting
-|  |
-| ------- |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/digvijay165/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-<!---LeetCode Topics End-->
