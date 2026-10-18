@@ -8,8 +8,8 @@ My collection of LeetCode solutions in **C++** and **Java** and **JavaScript** a
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-29-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-7-00b8a3?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-30-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-8-00b8a3?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-14-ffc01e?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-8-ff375f?style=flat-square)
 
@@ -34,16 +34,16 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 | Difficulty | Solved |
 | :---: | :---: |
-| 🟢 Easy | 7 |
+| 🟢 Easy | 8 |
 | 🟡 Medium | 14 |
 | 🔴 Hard | 8 |
-| **Total** | **29** |
+| **Total** | **30** |
 
 | Language | Solutions |
 | :---: | :---: |
 | JavaScript | 10 |
 | C++ | 8 |
-| Java | 6 |
+| Java | 7 |
 | TypeScript | 5 |
 
 ---
@@ -78,6 +78,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | C++ | `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree` | [View](./2913-subarrays-distinct-element-sum-of-squares-i) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | C++ | `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree` | [View](./2916-subarrays-distinct-element-sum-of-squares-ii) |
 | 3093 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries) | 🔴 Hard | Java | `Array`, `String`, `Trie` | [View](./3093-longest-common-suffix-queries) |
+| 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | 🟢 Easy | Java | `Hash Table`, `String` | [View](./3120-count-the-number-of-special-characters-i) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum) | 🟡 Medium | Java | `Array`, `Hash Table`, `Sorting` | [View](./3551-minimum-swaps-to-sort-by-digit-sum) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits) | 🟡 Medium | C++ | `Math`, `Greedy` | [View](./3723-maximize-sum-of-squares-of-digits) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | C++ | `Array`, `Greedy`, `Sorting` | [View](./3727-maximum-alternating-sum-of-squares) |
@@ -86,7 +87,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (16) · `String` (10) · `Hash Table` (8) · `Math` (7) · `Dynamic Programming` (5) · `Greedy` (4) · `Sorting` (4) · `Divide and Conquer` (3) · `Two Pointers` (3) · `Binary Indexed Tree` (2) · `Binary Search` (2) · `Linked List` (2) · `Recursion` (2) · `Segment Tree` (2) · `Sliding Window` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Enumeration` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
+`Array` (16) · `String` (11) · `Hash Table` (9) · `Math` (7) · `Dynamic Programming` (5) · `Greedy` (4) · `Sorting` (4) · `Divide and Conquer` (3) · `Two Pointers` (3) · `Binary Indexed Tree` (2) · `Binary Search` (2) · `Linked List` (2) · `Recursion` (2) · `Segment Tree` (2) · `Sliding Window` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Enumeration` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
 
 ---
 
@@ -114,15 +115,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3120-count-the-number-of-special-characters-i](https://github.com/digvijay165/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
-## String
-|  |
-| ------- |
-| [3120-count-the-number-of-special-characters-i](https://github.com/digvijay165/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
-<!---LeetCode Topics End-->

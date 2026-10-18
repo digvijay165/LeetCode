@@ -131,6 +131,10 @@
     "String",
     "Trie"
   ],
+  "3120-count-the-number-of-special-characters-i": [
+    "Hash Table",
+    "String"
+  ],
   "3551-minimum-swaps-to-sort-by-digit-sum": [
     "Array",
     "Hash Table",
