@@ -73,6 +73,10 @@
     "Merge Sort",
     "Tournament Sort"
   ],
+  "0033-search-in-rotated-sorted-array": [
+    "Array",
+    "Binary Search"
+  ],
   "1340-jump-game-v": [
     "Array",
     "Dynamic Programming",
@@ -90,6 +94,9 @@
     "Combinatorics",
     "Binary Tree",
     "Fermat's Little Theorem"
+  ],
+  "1752-check-if-array-is-sorted-and-rotated": [
+    "Array"
   ],
   "1871-jump-game-vii": [
     "String",
