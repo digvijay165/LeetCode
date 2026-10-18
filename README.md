@@ -123,3 +123,27 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/digvijay165/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/digvijay165/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Binary Search
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/digvijay165/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Greedy
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/digvijay165/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Sorting
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/digvijay165/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+<!---LeetCode Topics End-->
