@@ -146,4 +146,12 @@ Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 |  |
 | ------- |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/digvijay165/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+## Array
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/digvijay165/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/digvijay165/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
