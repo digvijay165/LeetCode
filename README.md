@@ -126,4 +126,12 @@ Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 |  |
 | ------- |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/digvijay165/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+## Array
+|  |
+| ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/digvijay165/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Math
+|  |
+| ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/digvijay165/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 <!---LeetCode Topics End-->
