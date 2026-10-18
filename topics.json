@@ -96,6 +96,11 @@
     "Stack",
     "Monotonic Stack"
   ],
+  "0301-remove-invalid-parentheses": [
+    "String",
+    "Backtracking",
+    "Breadth-First Search"
+  ],
   "0678-valid-parenthesis-string": [
     "Greedy",
     "Dynamic Programming",

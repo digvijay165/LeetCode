@@ -8,10 +8,10 @@ My collection of LeetCode solutions in **C++** and **Go** and **Java** and **Jav
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-44-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-45-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-11-00b8a3?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-22-ffc01e?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-11-ff375f?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-12-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
 
@@ -36,8 +36,8 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | :---: | :---: |
 | 🟢 Easy | 11 |
 | 🟡 Medium | 22 |
-| 🔴 Hard | 11 |
-| **Total** | **44** |
+| 🔴 Hard | 12 |
+| **Total** | **45** |
 
 | Language | Solutions |
 | :---: | :---: |
@@ -45,7 +45,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | JavaScript | 11 |
 | C++ | 8 |
 | TypeScript | 5 |
-| Go | 4 |
+| Go | 5 |
 | Python | 1 |
 
 ---
@@ -74,6 +74,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | 🔴 Hard | Java | `String`, `Dynamic Programming`, `Stack`, `Bracket Sequences` | [View](./0032-longest-valid-parentheses) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium | Java | `Array`, `Binary Search` | [View](./0033-search-in-rotated-sorted-array) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack` | [View](./0042-trapping-rain-water) |
+| 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | 🔴 Hard | Go | `String`, `Backtracking`, `Breadth-First Search` | [View](./0301-remove-invalid-parentheses) |
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | 🟡 Medium | Go | `Greedy`, `Dynamic Programming`, `String`, `Stack`, `Bracket Sequences` | [View](./0678-valid-parenthesis-string) |
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | 🟡 Medium | Go | `String`, `Stack`, `Bracket Sequences` | [View](./0856-score-of-parentheses) |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | 🟡 Medium | Go | `Greedy`, `String`, `Stack`, `Bracket Sequences` | [View](./0921-minimum-add-to-make-parentheses-valid) |
@@ -103,7 +104,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (23) · `String` (17) · `Dynamic Programming` (10) · `Greedy` (10) · `Hash Table` (10) · `Math` (9) · `Sorting` (8) · `Two Pointers` (6) · `Binary Search` (5) · `Bracket Sequences` (5) · `Stack` (5) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Enumeration` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Trie` (2) · `Backtracking` (1) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
+`Array` (23) · `String` (18) · `Dynamic Programming` (10) · `Greedy` (10) · `Hash Table` (10) · `Math` (9) · `Sorting` (8) · `Two Pointers` (6) · `Binary Search` (5) · `Bracket Sequences` (5) · `Stack` (5) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Backtracking` (2) · `Enumeration` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Breadth-First Search` (1) · `Combinatorics` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
 
 ---
 
@@ -131,19 +132,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0301-remove-invalid-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0301-remove-invalid-parentheses) |
-## Backtracking
-|  |
-| ------- |
-| [0301-remove-invalid-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0301-remove-invalid-parentheses) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0301-remove-invalid-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0301-remove-invalid-parentheses) |
-<!---LeetCode Topics End-->
