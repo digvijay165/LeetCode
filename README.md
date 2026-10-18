@@ -135,3 +135,15 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/digvijay165/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/digvijay165/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+<!---LeetCode Topics End-->
