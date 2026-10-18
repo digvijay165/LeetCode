@@ -8,10 +8,10 @@ My collection of LeetCode solutions in **C++** and **Java** and **JavaScript** a
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-24-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-25-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-6-00b8a3?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-12-ffc01e?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-6-ff375f?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-7-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
 
@@ -36,15 +36,15 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | :---: | :---: |
 | 🟢 Easy | 6 |
 | 🟡 Medium | 12 |
-| 🔴 Hard | 6 |
-| **Total** | **24** |
+| 🔴 Hard | 7 |
+| **Total** | **25** |
 
 | Language | Solutions |
 | :---: | :---: |
 | JavaScript | 10 |
 | C++ | 8 |
 | TypeScript | 5 |
-| Java | 1 |
+| Java | 2 |
 
 ---
 
@@ -69,6 +69,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | 🟡 Medium | TypeScript | `Array`, `Two Pointers`, `Sorting` | [View](./0015-3sum) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | 🔴 Hard | TypeScript | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort`, `Tournament Sort` | [View](./0023-merge-k-sorted-lists) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | 🔴 Hard | C++ | `Array`, `Dynamic Programming`, `Sorting` | [View](./1340-jump-game-v) |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | `Array`, `Math`, `Divide and Conquer`, `Dynamic Programming`, `Tree`, `Union-Find`, `Binary Search Tree`, `Memoization`, `Combinatorics`, `Binary Tree`, `Fermat's Little Theorem` | [View](./1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | C++ | `Array`, `Enumeration` | [View](./2778-sum-of-squares-of-special-elements) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | C++ | `Array`, `Hash Table`, `Greedy`, `Bit Manipulation` | [View](./2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | C++ | `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree` | [View](./2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -81,7 +82,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (12) · `Hash Table` (8) · `String` (8) · `Math` (6) · `Greedy` (4) · `Sorting` (4) · `Dynamic Programming` (3) · `Two Pointers` (3) · `Binary Indexed Tree` (2) · `Divide and Conquer` (2) · `Linked List` (2) · `Recursion` (2) · `Segment Tree` (2) · `Binary Search` (1) · `Bit Manipulation` (1) · `Enumeration` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Merge Sort` (1) · `Sliding Window` (1) · `Tournament Sort` (1) · `Trie` (1)
+`Array` (13) · `Hash Table` (8) · `String` (8) · `Math` (7) · `Dynamic Programming` (4) · `Greedy` (4) · `Sorting` (4) · `Divide and Conquer` (3) · `Two Pointers` (3) · `Binary Indexed Tree` (2) · `Linked List` (2) · `Recursion` (2) · `Segment Tree` (2) · `Binary Search` (1) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Enumeration` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Sliding Window` (1) · `Tournament Sort` (1) · `Tree` (1) · `Trie` (1) · `Union-Find` (1)
 
 ---
 
@@ -109,51 +110,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/digvijay165/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Math
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/digvijay165/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Divide and Conquer
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/digvijay165/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/digvijay165/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Tree
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/digvijay165/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Union-Find
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/digvijay165/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Binary Search Tree
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/digvijay165/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Memoization
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/digvijay165/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Combinatorics
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/digvijay165/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Binary Tree
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/digvijay165/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Fermat's Little Theorem
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/digvijay165/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-<!---LeetCode Topics End-->

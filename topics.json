@@ -78,6 +78,19 @@
     "Dynamic Programming",
     "Sorting"
   ],
+  "1569-number-of-ways-to-reorder-array-to-get-same-bst": [
+    "Array",
+    "Math",
+    "Divide and Conquer",
+    "Dynamic Programming",
+    "Tree",
+    "Union-Find",
+    "Binary Search Tree",
+    "Memoization",
+    "Combinatorics",
+    "Binary Tree",
+    "Fermat's Little Theorem"
+  ],
   "2778-sum-of-squares-of-special-elements": [
     "Array",
     "Enumeration"
