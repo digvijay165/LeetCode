@@ -8,10 +8,10 @@ My collection of LeetCode solutions in **C++** and **Java** and **JavaScript** a
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-35-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-36-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-9-00b8a3?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-16-ffc01e?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-10-ff375f?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-11-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
 
@@ -36,12 +36,12 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | :---: | :---: |
 | 🟢 Easy | 9 |
 | 🟡 Medium | 16 |
-| 🔴 Hard | 10 |
-| **Total** | **35** |
+| 🔴 Hard | 11 |
+| **Total** | **36** |
 
 | Language | Solutions |
 | :---: | :---: |
-| Java | 12 |
+| Java | 13 |
 | JavaScript | 10 |
 | C++ | 8 |
 | TypeScript | 5 |
@@ -71,6 +71,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | 🔴 Hard | TypeScript | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort`, `Tournament Sort` | [View](./0023-merge-k-sorted-lists) |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | 🔴 Hard | Java | `String`, `Dynamic Programming`, `Stack`, `Bracket Sequences` | [View](./0032-longest-valid-parentheses) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium | Java | `Array`, `Binary Search` | [View](./0033-search-in-rotated-sorted-array) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack` | [View](./0042-trapping-rain-water) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | 🔴 Hard | C++ | `Array`, `Dynamic Programming`, `Sorting` | [View](./1340-jump-game-v) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | `Array`, `Math`, `Divide and Conquer`, `Dynamic Programming`, `Tree`, `Union-Find`, `Binary Search Tree`, `Memoization`, `Combinatorics`, `Binary Tree`, `Fermat's Little Theorem` | [View](./1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | `Array` | [View](./1752-check-if-array-is-sorted-and-rotated) |
@@ -92,7 +93,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (18) · `String` (14) · `Hash Table` (10) · `Math` (8) · `Dynamic Programming` (7) · `Greedy` (4) · `Sorting` (4) · `Binary Indexed Tree` (3) · `Binary Search` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Two Pointers` (3) · `Bracket Sequences` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Trie` (2) · `Backtracking` (1) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Enumeration` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Stack` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
+`Array` (19) · `String` (14) · `Hash Table` (10) · `Dynamic Programming` (8) · `Math` (8) · `Greedy` (4) · `Sorting` (4) · `Two Pointers` (4) · `Binary Indexed Tree` (3) · `Binary Search` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Bracket Sequences` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Stack` (2) · `Trie` (2) · `Backtracking` (1) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Enumeration` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
 
 ---
 
@@ -120,27 +121,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/digvijay165/LeetCode/tree/master/0042-trapping-rain-water) |
-## Two Pointers
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/digvijay165/LeetCode/tree/master/0042-trapping-rain-water) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/digvijay165/LeetCode/tree/master/0042-trapping-rain-water) |
-## Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/digvijay165/LeetCode/tree/master/0042-trapping-rain-water) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/digvijay165/LeetCode/tree/master/0042-trapping-rain-water) |
-<!---LeetCode Topics End-->

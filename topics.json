@@ -89,6 +89,13 @@
     "Array",
     "Binary Search"
   ],
+  "0042-trapping-rain-water": [
+    "Array",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack"
+  ],
   "1340-jump-game-v": [
     "Array",
     "Dynamic Programming",
