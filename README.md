@@ -119,6 +119,7 @@ Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/digvijay165/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/digvijay165/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
