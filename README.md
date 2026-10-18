@@ -111,3 +111,23 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/digvijay165/LeetCode/tree/master/1871-jump-game-vii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/digvijay165/LeetCode/tree/master/1871-jump-game-vii) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/digvijay165/LeetCode/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/digvijay165/LeetCode/tree/master/1871-jump-game-vii) |
+<!---LeetCode Topics End-->
