@@ -8,8 +8,8 @@ My collection of LeetCode solutions in **C++** and **Java** and **JavaScript** a
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-38-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-10-00b8a3?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-39-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-11-00b8a3?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-17-ffc01e?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-11-ff375f?style=flat-square)
 
@@ -34,15 +34,15 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 | Difficulty | Solved |
 | :---: | :---: |
-| 🟢 Easy | 10 |
+| 🟢 Easy | 11 |
 | 🟡 Medium | 17 |
 | 🔴 Hard | 11 |
-| **Total** | **38** |
+| **Total** | **39** |
 
 | Language | Solutions |
 | :---: | :---: |
 | Java | 15 |
-| JavaScript | 10 |
+| JavaScript | 11 |
 | C++ | 8 |
 | TypeScript | 5 |
 
@@ -88,6 +88,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 3161 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries) | 🔴 Hard | Java | `Array`, `Binary Search`, `Binary Indexed Tree`, `Segment Tree`, `Ordered Set` | [View](./3161-block-placement-queries) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | 🟢 Easy | Java | `Array`, `Math` | [View](./3300-minimum-element-after-replacement-with-digit-sum) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum) | 🟡 Medium | Java | `Array`, `Hash Table`, `Sorting` | [View](./3551-minimum-swaps-to-sort-by-digit-sum) |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | 🟢 Easy | JavaScript | `Array`, `Two Pointers`, `Binary Search`, `Greedy`, `Sorting` | [View](./3633-earliest-finish-time-for-land-and-water-rides-i) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits) | 🟡 Medium | C++ | `Math`, `Greedy` | [View](./3723-maximize-sum-of-squares-of-digits) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | C++ | `Array`, `Greedy`, `Sorting` | [View](./3727-maximum-alternating-sum-of-squares) |
 
@@ -95,7 +96,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (21) · `String` (14) · `Hash Table` (10) · `Dynamic Programming` (8) · `Math` (8) · `Greedy` (6) · `Sorting` (6) · `Two Pointers` (4) · `Binary Indexed Tree` (3) · `Binary Search` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Bracket Sequences` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Stack` (2) · `Trie` (2) · `Backtracking` (1) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Enumeration` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
+`Array` (22) · `String` (14) · `Hash Table` (10) · `Dynamic Programming` (8) · `Math` (8) · `Greedy` (7) · `Sorting` (7) · `Two Pointers` (5) · `Binary Search` (4) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Bracket Sequences` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Stack` (2) · `Trie` (2) · `Backtracking` (1) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Enumeration` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
 
 ---
 
@@ -123,27 +124,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/digvijay165/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
-## Two Pointers
-|  |
-| ------- |
-| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/digvijay165/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
-## Binary Search
-|  |
-| ------- |
-| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/digvijay165/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
-## Greedy
-|  |
-| ------- |
-| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/digvijay165/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
-## Sorting
-|  |
-| ------- |
-| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/digvijay165/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
-<!---LeetCode Topics End-->
