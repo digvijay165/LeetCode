@@ -119,6 +119,11 @@
     "Stack",
     "Bracket Sequences"
   ],
+  "1021-remove-outermost-parentheses": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
   "1340-jump-game-v": [
     "Array",
     "Dynamic Programming",
