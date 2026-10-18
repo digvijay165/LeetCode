@@ -133,3 +133,23 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/digvijay165/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Stack
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/digvijay165/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Greedy
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/digvijay165/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/digvijay165/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+<!---LeetCode Topics End-->
