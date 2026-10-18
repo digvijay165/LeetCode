@@ -143,6 +143,7 @@ Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/digvijay165/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/digvijay165/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/digvijay165/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
@@ -166,14 +167,17 @@ Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/digvijay165/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/digvijay165/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/digvijay165/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/digvijay165/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/digvijay165/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/digvijay165/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
