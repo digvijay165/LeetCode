@@ -110,3 +110,19 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/digvijay165/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+## String
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/digvijay165/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/digvijay165/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+<!---LeetCode Topics End-->
