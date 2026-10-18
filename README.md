@@ -129,9 +129,26 @@ Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 ## Array
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/digvijay165/LeetCode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/digvijay165/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/digvijay165/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Binary Search
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/digvijay165/LeetCode/tree/master/3161-block-placement-queries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/digvijay165/LeetCode/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/digvijay165/LeetCode/tree/master/3161-block-placement-queries) |
+## Ordered Set
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/digvijay165/LeetCode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
