@@ -113,6 +113,11 @@
     "Binary Indexed Tree",
     "Segment Tree"
   ],
+  "3093-longest-common-suffix-queries": [
+    "Array",
+    "String",
+    "Trie"
+  ],
   "3551-minimum-swaps-to-sort-by-digit-sum": [
     "Array",
     "Hash Table",
