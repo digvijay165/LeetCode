@@ -8,9 +8,9 @@ My collection of LeetCode solutions in **C++** and **Go** and **Java** and **Jav
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-46-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-47-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-12-00b8a3?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-22-ffc01e?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-23-ffc01e?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-12-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
@@ -35,16 +35,16 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | Difficulty | Solved |
 | :---: | :---: |
 | 🟢 Easy | 12 |
-| 🟡 Medium | 22 |
+| 🟡 Medium | 23 |
 | 🔴 Hard | 12 |
-| **Total** | **46** |
+| **Total** | **47** |
 
 | Language | Solutions |
 | :---: | :---: |
 | Java | 15 |
 | JavaScript | 11 |
 | C++ | 8 |
-| Go | 6 |
+| Go | 7 |
 | TypeScript | 5 |
 | Python | 1 |
 
@@ -80,6 +80,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | 🟡 Medium | Go | `Greedy`, `String`, `Stack`, `Bracket Sequences` | [View](./0921-minimum-add-to-make-parentheses-valid) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | 🟢 Easy | Go | `String`, `Stack`, `Bracket Sequences` | [View](./1021-remove-outermost-parentheses) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | 🔴 Hard | C++ | `Array`, `Dynamic Programming`, `Sorting` | [View](./1340-jump-game-v) |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string) | 🟡 Medium | Go | `String`, `Stack`, `Greedy`, `Bracket Sequences` | [View](./1541-minimum-insertions-to-balance-a-parentheses-string) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | `Array`, `Math`, `Divide and Conquer`, `Dynamic Programming`, `Tree`, `Union-Find`, `Binary Search Tree`, `Memoization`, `Combinatorics`, `Binary Tree`, `Fermat's Little Theorem` | [View](./1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | `Array` | [View](./1752-check-if-array-is-sorted-and-rotated) |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii) | 🟡 Medium | Java | `String`, `Dynamic Programming`, `Sliding Window`, `Prefix Sum` | [View](./1871-jump-game-vii) |
@@ -105,7 +106,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (23) · `String` (19) · `Dynamic Programming` (10) · `Greedy` (10) · `Hash Table` (10) · `Math` (9) · `Sorting` (8) · `Bracket Sequences` (6) · `Stack` (6) · `Two Pointers` (6) · `Binary Search` (5) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Backtracking` (2) · `Enumeration` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Breadth-First Search` (1) · `Combinatorics` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
+`Array` (23) · `String` (20) · `Greedy` (11) · `Dynamic Programming` (10) · `Hash Table` (10) · `Math` (9) · `Sorting` (8) · `Bracket Sequences` (7) · `Stack` (7) · `Two Pointers` (6) · `Binary Search` (5) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Backtracking` (2) · `Enumeration` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Breadth-First Search` (1) · `Combinatorics` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
 
 ---
 
@@ -133,23 +134,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/digvijay165/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
-## Stack
-|  |
-| ------- |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/digvijay165/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
-## Greedy
-|  |
-| ------- |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/digvijay165/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
-## Bracket Sequences
-|  |
-| ------- |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/digvijay165/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
-<!---LeetCode Topics End-->

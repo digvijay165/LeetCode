@@ -129,6 +129,12 @@
     "Dynamic Programming",
     "Sorting"
   ],
+  "1541-minimum-insertions-to-balance-a-parentheses-string": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
   "1569-number-of-ways-to-reorder-array-to-get-same-bst": [
     "Array",
     "Math",
