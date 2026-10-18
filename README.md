@@ -8,9 +8,9 @@ My collection of LeetCode solutions in **C++** and **Go** and **Java** and **Jav
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-47-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-48-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-12-00b8a3?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-23-ffc01e?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-24-ffc01e?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-12-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
@@ -35,16 +35,16 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | Difficulty | Solved |
 | :---: | :---: |
 | 🟢 Easy | 12 |
-| 🟡 Medium | 23 |
+| 🟡 Medium | 24 |
 | 🔴 Hard | 12 |
-| **Total** | **47** |
+| **Total** | **48** |
 
 | Language | Solutions |
 | :---: | :---: |
 | Java | 15 |
 | JavaScript | 11 |
 | C++ | 8 |
-| Go | 7 |
+| Go | 8 |
 | TypeScript | 5 |
 | Python | 1 |
 
@@ -86,6 +86,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii) | 🟡 Medium | Java | `String`, `Dynamic Programming`, `Sliding Window`, `Prefix Sum` | [View](./1871-jump-game-vii) |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids) | 🟡 Medium | Java | `Array`, `Greedy`, `Sorting` | [View](./2126-destroying-asteroids) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) | 🟢 Easy | Java | `Array`, `Greedy`, `Sorting` | [View](./2144-minimum-cost-of-buying-candies-with-discount) |
+| 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference) | 🟡 Medium | Go | `Array`, `Binary Search`, `Greedy`, `Sorting`, `Heap (Priority Queue)` | [View](./2333-minimum-sum-of-squared-difference) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | C++ | `Array`, `Enumeration` | [View](./2778-sum-of-squares-of-special-elements) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | C++ | `Array`, `Hash Table`, `Greedy`, `Bit Manipulation` | [View](./2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | C++ | `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree` | [View](./2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -106,7 +107,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (23) · `String` (20) · `Greedy` (11) · `Dynamic Programming` (10) · `Hash Table` (10) · `Math` (9) · `Sorting` (8) · `Bracket Sequences` (7) · `Stack` (7) · `Two Pointers` (6) · `Binary Search` (5) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Backtracking` (2) · `Enumeration` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Breadth-First Search` (1) · `Combinatorics` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
+`Array` (24) · `String` (20) · `Greedy` (12) · `Dynamic Programming` (10) · `Hash Table` (10) · `Math` (9) · `Sorting` (9) · `Bracket Sequences` (7) · `Stack` (7) · `Binary Search` (6) · `Two Pointers` (6) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Backtracking` (2) · `Enumeration` (2) · `Heap (Priority Queue)` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Breadth-First Search` (1) · `Combinatorics` (1) · `Fermat's Little Theorem` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
 
 ---
 
@@ -134,27 +135,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/digvijay165/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
-## Binary Search
-|  |
-| ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/digvijay165/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
-## Greedy
-|  |
-| ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/digvijay165/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
-## Sorting
-|  |
-| ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/digvijay165/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/digvijay165/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
-<!---LeetCode Topics End-->
