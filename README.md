@@ -8,10 +8,10 @@ My collection of LeetCode solutions in **C++** and **Java** and **JavaScript** a
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-30-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-8-00b8a3?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-14-ffc01e?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-8-ff375f?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-33-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-9-00b8a3?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-15-ffc01e?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-9-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
 
@@ -34,16 +34,16 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 | Difficulty | Solved |
 | :---: | :---: |
-| 🟢 Easy | 8 |
-| 🟡 Medium | 14 |
-| 🔴 Hard | 8 |
-| **Total** | **30** |
+| 🟢 Easy | 9 |
+| 🟡 Medium | 15 |
+| 🔴 Hard | 9 |
+| **Total** | **33** |
 
 | Language | Solutions |
 | :---: | :---: |
 | JavaScript | 10 |
+| Java | 10 |
 | C++ | 8 |
-| Java | 7 |
 | TypeScript | 5 |
 
 ---
@@ -79,6 +79,9 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | C++ | `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree` | [View](./2916-subarrays-distinct-element-sum-of-squares-ii) |
 | 3093 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries) | 🔴 Hard | Java | `Array`, `String`, `Trie` | [View](./3093-longest-common-suffix-queries) |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | 🟢 Easy | Java | `Hash Table`, `String` | [View](./3120-count-the-number-of-special-characters-i) |
+| 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii) | 🟡 Medium | Java | `Hash Table`, `String` | [View](./3121-count-the-number-of-special-characters-ii) |
+| 3161 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries) | 🔴 Hard | Java | `Array`, `Binary Search`, `Binary Indexed Tree`, `Segment Tree`, `Ordered Set` | [View](./3161-block-placement-queries) |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | 🟢 Easy | Java | `Array`, `Math` | [View](./3300-minimum-element-after-replacement-with-digit-sum) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum) | 🟡 Medium | Java | `Array`, `Hash Table`, `Sorting` | [View](./3551-minimum-swaps-to-sort-by-digit-sum) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits) | 🟡 Medium | C++ | `Math`, `Greedy` | [View](./3723-maximize-sum-of-squares-of-digits) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | C++ | `Array`, `Greedy`, `Sorting` | [View](./3727-maximum-alternating-sum-of-squares) |
@@ -87,7 +90,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (16) · `String` (11) · `Hash Table` (9) · `Math` (7) · `Dynamic Programming` (5) · `Greedy` (4) · `Sorting` (4) · `Divide and Conquer` (3) · `Two Pointers` (3) · `Binary Indexed Tree` (2) · `Binary Search` (2) · `Linked List` (2) · `Recursion` (2) · `Segment Tree` (2) · `Sliding Window` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Enumeration` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
+`Array` (18) · `String` (12) · `Hash Table` (10) · `Math` (8) · `Dynamic Programming` (5) · `Greedy` (4) · `Sorting` (4) · `Binary Indexed Tree` (3) · `Binary Search` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Two Pointers` (3) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Enumeration` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
 
 ---
 
@@ -115,40 +118,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3121-count-the-number-of-special-characters-ii](https://github.com/digvijay165/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
-## String
-|  |
-| ------- |
-| [3121-count-the-number-of-special-characters-ii](https://github.com/digvijay165/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
-## Array
-|  |
-| ------- |
-| [3161-block-placement-queries](https://github.com/digvijay165/LeetCode/tree/master/3161-block-placement-queries) |
-| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/digvijay165/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
-## Math
-|  |
-| ------- |
-| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/digvijay165/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
-## Binary Search
-|  |
-| ------- |
-| [3161-block-placement-queries](https://github.com/digvijay165/LeetCode/tree/master/3161-block-placement-queries) |
-## Binary Indexed Tree
-|  |
-| ------- |
-| [3161-block-placement-queries](https://github.com/digvijay165/LeetCode/tree/master/3161-block-placement-queries) |
-## Segment Tree
-|  |
-| ------- |
-| [3161-block-placement-queries](https://github.com/digvijay165/LeetCode/tree/master/3161-block-placement-queries) |
-## Ordered Set
-|  |
-| ------- |
-| [3161-block-placement-queries](https://github.com/digvijay165/LeetCode/tree/master/3161-block-placement-queries) |
-<!---LeetCode Topics End-->

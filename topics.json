@@ -135,6 +135,21 @@
     "Hash Table",
     "String"
   ],
+  "3121-count-the-number-of-special-characters-ii": [
+    "Hash Table",
+    "String"
+  ],
+  "3161-block-placement-queries": [
+    "Array",
+    "Binary Search",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Ordered Set"
+  ],
+  "3300-minimum-element-after-replacement-with-digit-sum": [
+    "Array",
+    "Math"
+  ],
   "3551-minimum-swaps-to-sort-by-digit-sum": [
     "Array",
     "Hash Table",
