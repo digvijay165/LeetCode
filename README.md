@@ -121,3 +121,19 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/digvijay165/LeetCode/tree/master/2126-destroying-asteroids) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/digvijay165/LeetCode/tree/master/2126-destroying-asteroids) |
+## Sorting
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/digvijay165/LeetCode/tree/master/2126-destroying-asteroids) |
+<!---LeetCode Topics End-->
