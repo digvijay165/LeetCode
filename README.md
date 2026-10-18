@@ -8,10 +8,10 @@ My collection of LeetCode solutions in **C++** and **Go** and **Java** and **Jav
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-48-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-12-00b8a3?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-24-ffc01e?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-12-ff375f?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-52-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-13-00b8a3?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-26-ffc01e?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-13-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
 
@@ -34,17 +34,17 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 | Difficulty | Solved |
 | :---: | :---: |
-| 🟢 Easy | 12 |
-| 🟡 Medium | 24 |
-| 🔴 Hard | 12 |
-| **Total** | **48** |
+| 🟢 Easy | 13 |
+| 🟡 Medium | 26 |
+| 🔴 Hard | 13 |
+| **Total** | **52** |
 
 | Language | Solutions |
 | :---: | :---: |
 | Java | 15 |
+| Go | 12 |
 | JavaScript | 11 |
 | C++ | 8 |
-| Go | 8 |
 | TypeScript | 5 |
 | Python | 1 |
 
@@ -86,7 +86,10 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii) | 🟡 Medium | Java | `String`, `Dynamic Programming`, `Sliding Window`, `Prefix Sum` | [View](./1871-jump-game-vii) |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids) | 🟡 Medium | Java | `Array`, `Greedy`, `Sorting` | [View](./2126-destroying-asteroids) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) | 🟢 Easy | Java | `Array`, `Greedy`, `Sorting` | [View](./2144-minimum-cost-of-buying-candies-with-discount) |
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | 🟡 Medium | Go | `Array`, `Two Pointers`, `Simulation` | [View](./2161-partition-array-according-to-given-pivot) |
+| 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions) | 🟡 Medium | Go | `Array`, `Hash Table`, `Tree`, `Binary Tree` | [View](./2196-create-binary-tree-from-descriptions) |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference) | 🟡 Medium | Go | `Array`, `Binary Search`, `Greedy`, `Sorting`, `Heap (Priority Queue)` | [View](./2333-minimum-sum-of-squared-difference) |
+| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | 🟢 Easy | Go | `Array`, `Prefix Sum` | [View](./2574-left-and-right-sum-differences) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | 🟢 Easy | C++ | `Array`, `Enumeration` | [View](./2778-sum-of-squares-of-special-elements) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | C++ | `Array`, `Hash Table`, `Greedy`, `Bit Manipulation` | [View](./2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | C++ | `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree` | [View](./2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -102,12 +105,13 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits) | 🟡 Medium | C++ | `Math`, `Greedy` | [View](./3723-maximize-sum-of-squares-of-digits) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | C++ | `Array`, `Greedy`, `Sorting` | [View](./3727-maximum-alternating-sum-of-squares) |
 | 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) | 🟡 Medium | Go | `Math`, `Dynamic Programming`, `Enumeration` | [View](./3751-total-waviness-of-numbers-in-range-i) |
+| 3753 | [Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii) | 🔴 Hard | Go | `Math`, `Dynamic Programming` | [View](./3753-total-waviness-of-numbers-in-range-ii) |
 
 ---
 
 ## 🧩 Topics Covered
 
-`Array` (24) · `String` (20) · `Greedy` (12) · `Dynamic Programming` (10) · `Hash Table` (10) · `Math` (9) · `Sorting` (9) · `Bracket Sequences` (7) · `Stack` (7) · `Binary Search` (6) · `Two Pointers` (6) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Backtracking` (2) · `Enumeration` (2) · `Heap (Priority Queue)` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Breadth-First Search` (1) · `Combinatorics` (1) · `Fermat's Little Theorem` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
+`Array` (27) · `String` (20) · `Greedy` (12) · `Dynamic Programming` (11) · `Hash Table` (11) · `Math` (10) · `Sorting` (9) · `Bracket Sequences` (7) · `Stack` (7) · `Two Pointers` (7) · `Binary Search` (6) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Backtracking` (2) · `Binary Tree` (2) · `Enumeration` (2) · `Heap (Priority Queue)` (2) · `Linked List` (2) · `Prefix Sum` (2) · `Recursion` (2) · `Sliding Window` (2) · `Tree` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Bit Manipulation` (1) · `Breadth-First Search` (1) · `Combinatorics` (1) · `Fermat's Little Theorem` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Simulation` (1) · `Tournament Sort` (1) · `Union-Find` (1)
 
 ---
 
@@ -135,45 +139,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/digvijay165/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/digvijay165/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
-## Array
-|  |
-| ------- |
-| [2161-partition-array-according-to-given-pivot](https://github.com/digvijay165/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
-| [2196-create-binary-tree-from-descriptions](https://github.com/digvijay165/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
-| [2574-left-and-right-sum-differences](https://github.com/digvijay165/LeetCode/tree/master/2574-left-and-right-sum-differences) |
-## Prefix Sum
-|  |
-| ------- |
-| [2574-left-and-right-sum-differences](https://github.com/digvijay165/LeetCode/tree/master/2574-left-and-right-sum-differences) |
-## Hash Table
-|  |
-| ------- |
-| [2196-create-binary-tree-from-descriptions](https://github.com/digvijay165/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
-## Tree
-|  |
-| ------- |
-| [2196-create-binary-tree-from-descriptions](https://github.com/digvijay165/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
-## Binary Tree
-|  |
-| ------- |
-| [2196-create-binary-tree-from-descriptions](https://github.com/digvijay165/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
-## Two Pointers
-|  |
-| ------- |
-| [2161-partition-array-according-to-given-pivot](https://github.com/digvijay165/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
-## Simulation
-|  |
-| ------- |
-| [2161-partition-array-according-to-given-pivot](https://github.com/digvijay165/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
-<!---LeetCode Topics End-->

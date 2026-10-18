@@ -167,12 +167,27 @@
     "Greedy",
     "Sorting"
   ],
+  "2161-partition-array-according-to-given-pivot": [
+    "Array",
+    "Two Pointers",
+    "Simulation"
+  ],
+  "2196-create-binary-tree-from-descriptions": [
+    "Array",
+    "Hash Table",
+    "Tree",
+    "Binary Tree"
+  ],
   "2333-minimum-sum-of-squared-difference": [
     "Array",
     "Binary Search",
     "Greedy",
     "Sorting",
     "Heap (Priority Queue)"
+  ],
+  "2574-left-and-right-sum-differences": [
+    "Array",
+    "Prefix Sum"
   ],
   "2778-sum-of-squares-of-special-elements": [
     "Array",
@@ -252,5 +267,9 @@
     "Math",
     "Dynamic Programming",
     "Enumeration"
+  ],
+  "3753-total-waviness-of-numbers-in-range-ii": [
+    "Math",
+    "Dynamic Programming"
   ]
 }
