@@ -149,9 +149,22 @@ Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 ## Array
 |  |
 | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/digvijay165/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/digvijay165/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/digvijay165/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+## Hash Table
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/digvijay165/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/digvijay165/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/digvijay165/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
