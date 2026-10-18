@@ -8,9 +8,9 @@ My collection of LeetCode solutions in **C++** and **Java** and **JavaScript** a
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-33-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-34-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-9-00b8a3?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-15-ffc01e?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-16-ffc01e?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-9-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
@@ -35,14 +35,14 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | Difficulty | Solved |
 | :---: | :---: |
 | 🟢 Easy | 9 |
-| 🟡 Medium | 15 |
+| 🟡 Medium | 16 |
 | 🔴 Hard | 9 |
-| **Total** | **33** |
+| **Total** | **34** |
 
 | Language | Solutions |
 | :---: | :---: |
+| Java | 11 |
 | JavaScript | 10 |
-| Java | 10 |
 | C++ | 8 |
 | TypeScript | 5 |
 
@@ -67,6 +67,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | 🟢 Easy | TypeScript | `Hash Table`, `Math`, `String` | [View](./0013-roman-to-integer) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | 🟢 Easy | TypeScript | `Array`, `String`, `Trie` | [View](./0014-longest-common-prefix) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | 🟡 Medium | TypeScript | `Array`, `Two Pointers`, `Sorting` | [View](./0015-3sum) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | 🟡 Medium | Java | `String`, `Dynamic Programming`, `Backtracking`, `Bracket Sequences` | [View](./0022-generate-parentheses) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | 🔴 Hard | TypeScript | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort`, `Tournament Sort` | [View](./0023-merge-k-sorted-lists) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium | Java | `Array`, `Binary Search` | [View](./0033-search-in-rotated-sorted-array) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | 🔴 Hard | C++ | `Array`, `Dynamic Programming`, `Sorting` | [View](./1340-jump-game-v) |
@@ -90,7 +91,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (18) · `String` (12) · `Hash Table` (10) · `Math` (8) · `Dynamic Programming` (5) · `Greedy` (4) · `Sorting` (4) · `Binary Indexed Tree` (3) · `Binary Search` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Two Pointers` (3) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Enumeration` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
+`Array` (18) · `String` (13) · `Hash Table` (10) · `Math` (8) · `Dynamic Programming` (6) · `Greedy` (4) · `Sorting` (4) · `Binary Indexed Tree` (3) · `Binary Search` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Two Pointers` (3) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Trie` (2) · `Backtracking` (1) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Bracket Sequences` (1) · `Combinatorics` (1) · `Enumeration` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
 
 ---
 
@@ -118,23 +119,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0022-generate-parentheses) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0022-generate-parentheses) |
-## Backtracking
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0022-generate-parentheses) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0022-generate-parentheses) |
-<!---LeetCode Topics End-->

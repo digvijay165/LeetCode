@@ -66,6 +66,12 @@
     "Two Pointers",
     "Sorting"
   ],
+  "0022-generate-parentheses": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking",
+    "Bracket Sequences"
+  ],
   "0023-merge-k-sorted-lists": [
     "Linked List",
     "Divide and Conquer",
