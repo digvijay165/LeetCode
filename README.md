@@ -165,12 +165,15 @@ Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/digvijay165/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/digvijay165/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/digvijay165/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
