@@ -96,6 +96,24 @@
     "Stack",
     "Monotonic Stack"
   ],
+  "0678-valid-parenthesis-string": [
+    "Greedy",
+    "Dynamic Programming",
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "0856-score-of-parentheses": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "0921-minimum-add-to-make-parentheses-valid": [
+    "Greedy",
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
   "1340-jump-game-v": [
     "Array",
     "Dynamic Programming",
@@ -191,6 +209,13 @@
     "Greedy",
     "Sorting"
   ],
+  "3635-earliest-finish-time-for-land-and-water-rides-ii": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+  ],
   "3723-maximize-sum-of-squares-of-digits": [
     "Math",
     "Greedy"
@@ -199,5 +224,10 @@
     "Array",
     "Greedy",
     "Sorting"
+  ],
+  "3751-total-waviness-of-numbers-in-range-i": [
+    "Math",
+    "Dynamic Programming",
+    "Enumeration"
   ]
 }

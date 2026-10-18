@@ -4,13 +4,13 @@
 
 ### *Sharpening problem-solving skills, one problem at a time.*
 
-My collection of LeetCode solutions in **C++** and **Java** and **JavaScript** and **TypeScript**, synced automatically from LeetCode with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
+My collection of LeetCode solutions in **C++** and **Go** and **Java** and **JavaScript** and **Python** and **TypeScript**, synced automatically from LeetCode with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-39-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-44-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-11-00b8a3?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-17-ffc01e?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-22-ffc01e?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-11-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
@@ -35,9 +35,9 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | Difficulty | Solved |
 | :---: | :---: |
 | 🟢 Easy | 11 |
-| 🟡 Medium | 17 |
+| 🟡 Medium | 22 |
 | 🔴 Hard | 11 |
-| **Total** | **39** |
+| **Total** | **44** |
 
 | Language | Solutions |
 | :---: | :---: |
@@ -45,6 +45,8 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | JavaScript | 11 |
 | C++ | 8 |
 | TypeScript | 5 |
+| Go | 4 |
+| Python | 1 |
 
 ---
 
@@ -72,6 +74,9 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | 🔴 Hard | Java | `String`, `Dynamic Programming`, `Stack`, `Bracket Sequences` | [View](./0032-longest-valid-parentheses) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium | Java | `Array`, `Binary Search` | [View](./0033-search-in-rotated-sorted-array) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack` | [View](./0042-trapping-rain-water) |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | 🟡 Medium | Go | `Greedy`, `Dynamic Programming`, `String`, `Stack`, `Bracket Sequences` | [View](./0678-valid-parenthesis-string) |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | 🟡 Medium | Go | `String`, `Stack`, `Bracket Sequences` | [View](./0856-score-of-parentheses) |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | 🟡 Medium | Go | `Greedy`, `String`, `Stack`, `Bracket Sequences` | [View](./0921-minimum-add-to-make-parentheses-valid) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | 🔴 Hard | C++ | `Array`, `Dynamic Programming`, `Sorting` | [View](./1340-jump-game-v) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | Java | `Array`, `Math`, `Divide and Conquer`, `Dynamic Programming`, `Tree`, `Union-Find`, `Binary Search Tree`, `Memoization`, `Combinatorics`, `Binary Tree`, `Fermat's Little Theorem` | [View](./1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | `Array` | [View](./1752-check-if-array-is-sorted-and-rotated) |
@@ -89,14 +94,16 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | 🟢 Easy | Java | `Array`, `Math` | [View](./3300-minimum-element-after-replacement-with-digit-sum) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum) | 🟡 Medium | Java | `Array`, `Hash Table`, `Sorting` | [View](./3551-minimum-swaps-to-sort-by-digit-sum) |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | 🟢 Easy | JavaScript | `Array`, `Two Pointers`, `Binary Search`, `Greedy`, `Sorting` | [View](./3633-earliest-finish-time-for-land-and-water-rides-i) |
+| 3635 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii) | 🟡 Medium | Python | `Array`, `Two Pointers`, `Binary Search`, `Greedy`, `Sorting` | [View](./3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits) | 🟡 Medium | C++ | `Math`, `Greedy` | [View](./3723-maximize-sum-of-squares-of-digits) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares) | 🟡 Medium | C++ | `Array`, `Greedy`, `Sorting` | [View](./3727-maximum-alternating-sum-of-squares) |
+| 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) | 🟡 Medium | Go | `Math`, `Dynamic Programming`, `Enumeration` | [View](./3751-total-waviness-of-numbers-in-range-i) |
 
 ---
 
 ## 🧩 Topics Covered
 
-`Array` (22) · `String` (14) · `Hash Table` (10) · `Dynamic Programming` (8) · `Math` (8) · `Greedy` (7) · `Sorting` (7) · `Two Pointers` (5) · `Binary Search` (4) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Bracket Sequences` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Stack` (2) · `Trie` (2) · `Backtracking` (1) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Enumeration` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
+`Array` (23) · `String` (17) · `Dynamic Programming` (10) · `Greedy` (10) · `Hash Table` (10) · `Math` (9) · `Sorting` (8) · `Two Pointers` (6) · `Binary Search` (5) · `Bracket Sequences` (5) · `Stack` (5) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Enumeration` (2) · `Linked List` (2) · `Recursion` (2) · `Sliding Window` (2) · `Trie` (2) · `Backtracking` (1) · `Binary Search Tree` (1) · `Binary Tree` (1) · `Bit Manipulation` (1) · `Combinatorics` (1) · `Fermat's Little Theorem` (1) · `Heap (Priority Queue)` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Prefix Sum` (1) · `Tournament Sort` (1) · `Tree` (1) · `Union-Find` (1)
 
 ---
 
@@ -124,60 +131,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/digvijay165/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
-## Two Pointers
-|  |
-| ------- |
-| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/digvijay165/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
-## Binary Search
-|  |
-| ------- |
-| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/digvijay165/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
-## Greedy
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/digvijay165/LeetCode/tree/master/0678-valid-parenthesis-string) |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/digvijay165/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/digvijay165/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
-## Sorting
-|  |
-| ------- |
-| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/digvijay165/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
-## Math
-|  |
-| ------- |
-| [3751-total-waviness-of-numbers-in-range-i](https://github.com/digvijay165/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/digvijay165/LeetCode/tree/master/0678-valid-parenthesis-string) |
-| [3751-total-waviness-of-numbers-in-range-i](https://github.com/digvijay165/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
-## Enumeration
-|  |
-| ------- |
-| [3751-total-waviness-of-numbers-in-range-i](https://github.com/digvijay165/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
-## String
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/digvijay165/LeetCode/tree/master/0678-valid-parenthesis-string) |
-| [0856-score-of-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0856-score-of-parentheses) |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/digvijay165/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-## Stack
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/digvijay165/LeetCode/tree/master/0678-valid-parenthesis-string) |
-| [0856-score-of-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0856-score-of-parentheses) |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/digvijay165/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/digvijay165/LeetCode/tree/master/0678-valid-parenthesis-string) |
-| [0856-score-of-parentheses](https://github.com/digvijay165/LeetCode/tree/master/0856-score-of-parentheses) |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/digvijay165/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-<!---LeetCode Topics End-->
