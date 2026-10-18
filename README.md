@@ -134,3 +134,27 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/digvijay165/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/digvijay165/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/digvijay165/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/digvijay165/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/digvijay165/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+<!---LeetCode Topics End-->
