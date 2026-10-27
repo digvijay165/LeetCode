@@ -8,10 +8,10 @@ My collection of LeetCode solutions in **C++** and **Go** and **Java** and **Jav
 
 [![LeetCode Profile](https://img.shields.io/badge/🚀_LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/digvijay165/)
 
-![Solved](https://img.shields.io/badge/Solved-52-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-53-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-13-00b8a3?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-26-ffc01e?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-13-ff375f?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-14-ff375f?style=flat-square)
 
 **[🌐 LeetCode Profile](https://leetcode.com/u/digvijay165/)** · **[👤 GitHub](https://github.com/digvijay165)**
 
@@ -36,8 +36,8 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | :---: | :---: |
 | 🟢 Easy | 13 |
 | 🟡 Medium | 26 |
-| 🔴 Hard | 13 |
-| **Total** | **52** |
+| 🔴 Hard | 14 |
+| **Total** | **53** |
 
 | Language | Solutions |
 | :---: | :---: |
@@ -46,7 +46,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | JavaScript | 11 |
 | C++ | 8 |
 | TypeScript | 5 |
-| Python | 1 |
+| Python | 2 |
 
 ---
 
@@ -71,6 +71,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | 🟡 Medium | TypeScript | `Array`, `Two Pointers`, `Sorting` | [View](./0015-3sum) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | 🟡 Medium | Java | `String`, `Dynamic Programming`, `Backtracking`, `Bracket Sequences` | [View](./0022-generate-parentheses) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | 🔴 Hard | TypeScript | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort`, `Tournament Sort` | [View](./0023-merge-k-sorted-lists) |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | 🔴 Hard | Python | `Linked List`, `Recursion` | [View](./0025-reverse-nodes-in-k-group) |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | 🔴 Hard | Java | `String`, `Dynamic Programming`, `Stack`, `Bracket Sequences` | [View](./0032-longest-valid-parentheses) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium | Java | `Array`, `Binary Search` | [View](./0033-search-in-rotated-sorted-array) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | 🔴 Hard | Java | `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack` | [View](./0042-trapping-rain-water) |
@@ -111,7 +112,7 @@ New accepted submissions are pushed here automatically by **LeetHub**, and this 
 
 ## 🧩 Topics Covered
 
-`Array` (27) · `String` (20) · `Greedy` (12) · `Dynamic Programming` (11) · `Hash Table` (11) · `Math` (10) · `Sorting` (9) · `Bracket Sequences` (7) · `Stack` (7) · `Two Pointers` (7) · `Binary Search` (6) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Segment Tree` (3) · `Backtracking` (2) · `Binary Tree` (2) · `Enumeration` (2) · `Heap (Priority Queue)` (2) · `Linked List` (2) · `Prefix Sum` (2) · `Recursion` (2) · `Sliding Window` (2) · `Tree` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Bit Manipulation` (1) · `Breadth-First Search` (1) · `Combinatorics` (1) · `Fermat's Little Theorem` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Simulation` (1) · `Tournament Sort` (1) · `Union-Find` (1)
+`Array` (27) · `String` (20) · `Greedy` (12) · `Dynamic Programming` (11) · `Hash Table` (11) · `Math` (10) · `Sorting` (9) · `Bracket Sequences` (7) · `Stack` (7) · `Two Pointers` (7) · `Binary Search` (6) · `Binary Indexed Tree` (3) · `Divide and Conquer` (3) · `Linked List` (3) · `Recursion` (3) · `Segment Tree` (3) · `Backtracking` (2) · `Binary Tree` (2) · `Enumeration` (2) · `Heap (Priority Queue)` (2) · `Prefix Sum` (2) · `Sliding Window` (2) · `Tree` (2) · `Trie` (2) · `Binary Search Tree` (1) · `Bit Manipulation` (1) · `Breadth-First Search` (1) · `Combinatorics` (1) · `Fermat's Little Theorem` (1) · `Manacher` (1) · `Memoization` (1) · `Merge Sort` (1) · `Monotonic Stack` (1) · `Ordered Set` (1) · `Simulation` (1) · `Tournament Sort` (1) · `Union-Find` (1)
 
 ---
 
@@ -139,15 +140,3 @@ If you find these solutions helpful, feel free to ⭐ the repo or suggest better
 Made with 💻 by [Digvijay Singh](https://github.com/digvijay165)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0025-reverse-nodes-in-k-group](https://github.com/digvijay165/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
-## Recursion
-|  |
-| ------- |
-| [0025-reverse-nodes-in-k-group](https://github.com/digvijay165/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
-<!---LeetCode Topics End-->

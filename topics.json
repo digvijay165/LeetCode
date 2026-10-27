@@ -79,6 +79,10 @@
     "Merge Sort",
     "Tournament Sort"
   ],
+  "0025-reverse-nodes-in-k-group": [
+    "Linked List",
+    "Recursion"
+  ],
   "0032-longest-valid-parentheses": [
     "String",
     "Dynamic Programming",
